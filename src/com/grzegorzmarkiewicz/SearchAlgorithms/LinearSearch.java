@@ -1,4 +1,4 @@
-package com.grzegorzmarkiewicz;
+package com.grzegorzmarkiewicz.SearchAlgorithms;
 
 import com.grzegorzmarkiewicz.SearchAlgorithms.SearchAlgorithm;
 
